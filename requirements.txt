@@ -4,3 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 scipy
+torch
+h5py
