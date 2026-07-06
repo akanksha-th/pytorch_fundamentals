@@ -235,8 +235,6 @@
     renderLegendIcons();
     renderPlainList();
     renderProgress();
-    renderReadingList();
-    renderTags();
     initV2Toggle();
     initRepoLink();
   }
